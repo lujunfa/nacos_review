@@ -1,0 +1,26 @@
+
+\
+java:S2184Ê"ECast one of the operands of this subtraction operation to a "double".(¯ÈŞÛ
+N
+java:S2629"7Use the built-in formatting to construct this argument.(çË¨
+S
+java:S2629"7Use the built-in formatting to construct this argument.(Â£„ışÿÿÿÿ
+:
+java:S2629Ş"$Invoke method(s) only conditionally.(¬¡Ä
+a	java:S112š"FDefine and throw a dedicated exception instead of using a generic one.(ëÚ¡»ıÿÿÿÿ
+{
+java:S1488¢"_Immediately return this expression instead of assigning it to the temporary variable "headers".(Íãç¯ÿÿÿÿÿ
+B
+java:S1168ˆ"+Return an empty collection instead of null.(¥¹ï
+A
+java:S1181£"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+X
+java:S3457"AFormat specifiers should be used instead of string concatenation.(çË¨
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Â£„ışÿÿÿÿ
+w
+java:S3457Ş"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(¬¡Ä
+Ÿ
+java:S1130Ÿ"‡Remove the declaration of thrown exception 'com.alibaba.nacos.api.exception.NacosException', as it cannot be thrown from method's body.(ºøÖ¦
+¤
+java:S1130©"‡Remove the declaration of thrown exception 'com.alibaba.nacos.api.exception.NacosException', as it cannot be thrown from method's body.(îŞóÍşÿÿÿÿ

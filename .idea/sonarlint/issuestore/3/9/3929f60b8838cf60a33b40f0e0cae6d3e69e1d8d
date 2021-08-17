@@ -1,0 +1,21 @@
+
+N
+java:S2629´"7Use the built-in formatting to construct this argument.(Ó¸÷•
+[	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(¾Ùƒ½
+U
+java:S1118'":Add a private constructor to hide the implicit public one.(ˆêŠ¹üÿÿÿÿ
+o
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(†¬ÎÔ
+o
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßˆŞº
+>	java:S108X")Either remove or fill this block of code.(´ú§â
+h
+java:S3776i"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¢ ı‡
+\
+java:S3457r"AFormat specifiers should be used instead of string concatenation.(ã¼Á¦øÿÿÿÿ
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(çó·»ÿÿÿÿÿ
+]
+java:S3457 "AFormat specifiers should be used instead of string concatenation.(†éüéúÿÿÿÿ
+X
+java:S3457´"AFormat specifiers should be used instead of string concatenation.(Ó¸÷•

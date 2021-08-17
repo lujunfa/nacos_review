@@ -1,0 +1,27 @@
+
+J
+java:S1444-"5Make this "public static STANDALONE_MODE" field final(—ÇÓ:
+H
+java:S14445"3Make this "public static FUNCTION_MODE" field final( ûÑz
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ŒÄœ”ıÿÿÿÿ
+p
+java:S1104-"[Make STANDALONE_MODE a static final constant or non-public and provide accessors if needed.(—ÇÓ:
+n
+java:S11045"YMake FUNCTION_MODE a static final constant or non-public and provide accessors if needed.( ûÑz
+o
+java:S3008-"ZRename this field "STANDALONE_MODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÇÓ:
+m
+java:S30085"XRename this field "FUNCTION_MODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ûÑz
+P
+java:S1118&":Add a private constructor to hide the implicit public one.(µÖ£÷
+o
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨ÿåÔ
+t
+java:S2293~"YReplace the type specification in this constructor call with the diamond operator ("<>").(«üş‡ıÿÿÿÿ
+U
+java:S4719‚"9Replace charset name argument with StandardCharsets.UTF_8(€²‰‹ùÿÿÿÿ
+F
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+@
+java:S1068("*Remove this unused "logger" private field.( –ìİ

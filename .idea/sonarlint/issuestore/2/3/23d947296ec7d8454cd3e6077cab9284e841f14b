@@ -1,0 +1,17 @@
+
+^
+java:S44883"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æøîç
+t
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(îÿ’úÿÿÿÿ
+t
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(îÿ’úÿÿÿÿ
+t
+java:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(îÿ’úÿÿÿÿ
+e
+java:S4488_"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ßƒµ¢şÿÿÿÿ
+n
+java:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò¸h
+n
+java:S2293o"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò¸h
+n
+java:S2293}"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò¸h

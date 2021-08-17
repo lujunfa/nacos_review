@@ -1,0 +1,21 @@
+
+~
+java:S1192_"hDefine a constant instead of duplicating this literal "[NACOS IOException] currentServerAddr: " 3 times.(ŒÙÑ£
+j
+java:S1192d"TDefine a constant instead of duplicating this literal "no available server" 6 times.(øíı¾
+“
+java:S1192S"}Define a constant instead of duplicating this literal "[NACOS ConnectException] currentServerAddr: {}, httpCode: {}" 3 times.(»ÒØÅ
+s
+java:S3077‹"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(âÎƒÈşÿÿÿÿ
+n
+java:S2139^"XEither log this exception and handle it, or rethrow it with some contextual information.(Æâ­ê
+;
+java:S3457‚"%String contains no format specifiers.(«®6
+o
+java:S2139…"XEither log this exception and handle it, or rethrow it with some contextual information.(Æâ­ê
+o
+java:S2139¬"XEither log this exception and handle it, or rethrow it with some contextual information.(Æâ­ê
+^
+java:S1117ı"BRename "sTSCredential" which hides the field declared at line 395.(¹òñØùÿÿÿÿ
+o
+java:S2139¸"XEither log this exception and handle it, or rethrow it with some contextual information.(ï­£Ä

@@ -1,0 +1,27 @@
+
+a
+java:S2184F"FCast one of the operands of this multiplication operation to a "long".(’ÆÇ¬ÿÿÿÿÿ
+a	java:S112¡"FDefine and throw a dedicated exception instead of using a generic one.(¾º·÷øÿÿÿÿ
+a	java:S112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(¼şàÌÿÿÿÿÿ
+Q
+java:S1141Í"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+F
+java:S5411›"*Use the primitive boolean expression here.(ôª–§ùÿÿÿÿ
+A
+java:S5411 "*Use the primitive boolean expression here.(î¤ëĞ
+(
+java:S21765"Rename this class.(¢”×³
+H
+java:S1135M"2Complete the task associated to this TODO comment.(ÎÉŸ¦
+o
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(½€
+o
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñÑL
+u
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(•êÛ‡øÿÿÿÿ
+u
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(€ÁäÕúÿÿÿÿ
+Q
+java:S4719Ï":Replace Charset.forName() call with StandardCharsets.UTF_8(ËÜò€
+I
+java:S1068O"3Remove this unused "pushCacheMillis" private field.(ØŒÜÙ

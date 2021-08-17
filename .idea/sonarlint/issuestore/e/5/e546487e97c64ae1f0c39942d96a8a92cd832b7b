@@ -1,0 +1,15 @@
+
+H
+java:S1444*"-Make this "public static VERSION" field final(ı¿ÜÅúÿÿÿÿ
+J
+java:S3740/"/Provide the parametrized type for this generic.(ú“¸Õúÿÿÿÿ
+n
+java:S1104*"SMake VERSION a static final constant or non-public and provide accessors if needed.(ı¿ÜÅúÿÿÿÿ
+m
+java:S3008*"RRename this field "VERSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¿ÜÅúÿÿÿÿ
+c
+java:S4488."HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ßóÿ‰øÿÿÿÿ
+o
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(–ŸÜ
+@
+java:S1068'"*Remove this unused "logger" private field.(çÈ×

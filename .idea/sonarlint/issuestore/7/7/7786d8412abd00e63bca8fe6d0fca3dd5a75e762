@@ -1,0 +1,29 @@
+
+E
+java:S1066U"/Merge this if statement with the enclosing one.(’ùúÉ
+P
+java:S1118(":Add a private constructor to hide the implicit public one.(®»–ü
+J
+java:S1172+"/Remove this unused method parameter "response".(«Î™ùÿÿÿÿ
+`
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(ä™Ø×úÿÿÿÿ
+t
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒÇÚşÿÿÿÿ
+[
+java:S1124:"EReorder the modifiers to comply with the Java Language Specification.(â£ˆ’
+[
+java:S1124G"EReorder the modifiers to comply with the Java Language Specification.(åîï—
+h
+java:S3776g"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Èßò¹
+[
+java:S1124g"EReorder the modifiers to comply with the Java Language Specification.(Èßò¹
+o
+java:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê—¬ç
+o
+java:S2293o"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓÚ„
+a
+java:S1124•"EReorder the modifiers to comply with the Java Language Specification.(€ÆªŸüÿÿÿÿ
+\
+java:S1124š"EReorder the modifiers to comply with the Java Language Specification.(Õ™Æú
+[
+java:S1124 "EReorder the modifiers to comply with the Java Language Specification.(ó¿É

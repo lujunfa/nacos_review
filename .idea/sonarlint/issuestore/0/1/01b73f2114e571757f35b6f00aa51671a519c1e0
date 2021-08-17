@@ -1,0 +1,17 @@
+
+m
+java:S1192="RDefine a constant instead of duplicating this literal "invalid groupkey:" 4 times.(¹ÚÉòüÿÿÿÿ
+r	java:S127@"XRefactor the code in order to not assign to this loop counter from within the loop body.(ë·½Ğÿÿÿÿÿ
+r	java:S127A"XRefactor the code in order to not assign to this loop counter from within the loop body.(”’ê®úÿÿÿÿ
+^
+java:S2259U"CA "NullPointerException" could be thrown; "group" is nullable here.(Õ±¤şÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ı…š“úÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(œ ·¬øÿÿÿÿ
+[
+java:S1124!"EReorder the modifiers to comply with the Java Language Specification.(®Ç¹„
+m
+java:S3776-"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Üšú‡øÿÿÿÿ
+`
+java:S1124-"EReorder the modifiers to comply with the Java Language Specification.(Üšú‡øÿÿÿÿ

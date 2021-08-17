@@ -1,0 +1,61 @@
+
+€
+java:S1192–"dDefine a constant instead of duplicating this literal "[NA] failed to update serviceName: " 3 times.(ÂÜ•·şÿÿÿÿ
+c
+java:S1192£"LDefine a constant instead of duplicating this literal ") service: " 5 times.(ŒÎªš
+K
+java:S1066í"/Merge this if statement with the enclosing one.(«ÕŞÃıÿÿÿÿ
+s
+java:S2629£"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ŒÎªš
+s
+java:S2629¨"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¼“ƒ²
+x
+java:S2629­"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(‹èåòùÿÿÿÿ
+s
+java:S2629¹"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ú¼û
+x
+java:S2629Ã"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ûìÛúÿÿÿÿ
+o	java:S135„"YReduce the total number of break and continue statements in this loop to use at most one.(²«şú
+o	java:S135”"YReduce the total number of break and continue statements in this loop to use at most one.(·Š¾²
+Z
+java:S1155¢">Use isEmpty() to check whether the collection is empty or not.(¬ÔöÅúÿÿÿÿ
+U
+java:S1155§">Use isEmpty() to check whether the collection is empty or not.(¡ìä’
+U
+java:S1155¬">Use isEmpty() to check whether the collection is empty or not.(‚Óë 
+Z
+java:S1155³">Use isEmpty() to check whether the collection is empty or not.(­Ö¿Äûÿÿÿÿ
+Z
+java:S1155³">Use isEmpty() to check whether the collection is empty or not.(­Ö¿Äûÿÿÿÿ
+Z
+java:S1155³">Use isEmpty() to check whether the collection is empty or not.(­Ö¿Äûÿÿÿÿ
+t
+java:S1104)"^Make updateHoldInterval a static final constant or non-public and provide accessors if needed.(ÕÀî›
+A
+java:S1452`"&Remove usage of generic wildcard type.(ÁŞôïùÿÿÿÿ
+2
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ
+2
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ
+m
+java:S3776d"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(•¼‘¸øÿÿÿÿ
+\
+java:S3457n"AFormat specifiers should be used instead of string concatenation.(¿çÁùøÿÿÿÿ
+X
+java:S3457£"AFormat specifiers should be used instead of string concatenation.(ŒÎªš
+X
+java:S3457¨"AFormat specifiers should be used instead of string concatenation.(¼“ƒ²
+]
+java:S3457­"AFormat specifiers should be used instead of string concatenation.(‹èåòùÿÿÿÿ
+X
+java:S3457¹"AFormat specifiers should be used instead of string concatenation.(ú¼û
+]
+java:S3457Ã"AFormat specifiers should be used instead of string concatenation.(ûìÛúÿÿÿÿ
+X
+java:S3457Ú"AFormat specifiers should be used instead of string concatenation.(¸ëï
+u
+java:S2142ò"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Q
+java:S2274ñ":Remove this call to "wait" or move it into a "while" loop.(¤íÎ¬
+A
+java:S1181É"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ

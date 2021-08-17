@@ -1,0 +1,23 @@
+
+^
+java:S1192'"HDefine a constant instead of duplicating this literal "module" 12 times.(óé”Ï
+i
+java:S1192)"NDefine a constant instead of duplicating this literal "nacos_monitor" 6 times.(¯ÏÝ¸øÿÿÿÿ
+k
+java:S1192d"PDefine a constant instead of duplicating this literal "nacos_exception" 5 times.(ˆŠ¢›ÿÿÿÿÿ
+^
+java:S1192'"HDefine a constant instead of duplicating this literal "config" 12 times.(óé”Ï
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ì¡óå
+o
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó¿œÑ
+t
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠŒ°›ýÿÿÿÿ
+t
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠŒ°›ýÿÿÿÿ
+t
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠŒ°›ýÿÿÿÿ
+t
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠŒ°›ýÿÿÿÿ
+t
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠŒ°›ýÿÿÿÿ

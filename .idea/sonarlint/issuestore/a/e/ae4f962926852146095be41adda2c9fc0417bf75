@@ -1,0 +1,30 @@
+
+a	java:S112†"FDefine and throw a dedicated exception instead of using a generic one.(ÌæĞÚúÿÿÿÿ
+a	java:S112Ñ"FDefine and throw a dedicated exception instead of using a generic one.(˜‚ñûÿÿÿÿ
+Z
+java:S1155Ğ">Use isEmpty() to check whether the collection is empty or not.(ÈÎåÑÿÿÿÿÿ
+A
+java:S5411"*Use the primitive boolean expression here.(…÷½€
+m
+java:S3077N"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¤üù½
+m
+java:S3077O"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(øîó´
+v
+java:S3008;"[Rename this field "JDBC_DRIVER_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¨Ãëøÿÿÿÿ
+o
+java:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒãô…
+[
+java:S1124N"EReorder the modifiers to comply with the Java Language Specification.(¤üù½
+[
+java:S1124O"EReorder the modifiers to comply with the Java Language Specification.(øîó´
+t
+java:S2293x"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØÃæıüÿÿÿÿ
+t
+java:S2293y"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ— ´øÿÿÿÿ
+u
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(«ùşÅüÿÿÿÿ
+?	java:S108Ú")Either remove or fill this block of code.(Úîø›
+D
+java:S1125í"(Remove the unnecessary boolean literals.(ßã€Õşÿÿÿÿ
+N
+java:S1135Æ"2Complete the task associated to this TODO comment.(ûÿÁîüÿÿÿÿ

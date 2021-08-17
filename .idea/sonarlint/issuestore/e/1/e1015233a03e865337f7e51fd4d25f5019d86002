@@ -1,0 +1,12 @@
+
+b
+java:S1192 "FDefine a constant instead of duplicating this literal "http:" 3 times.(ş»½Øşÿÿÿÿ
+s	java:S135b"YReduce the total number of break and continue statements in this loop to use at most one.(İÂ¼¶üÿÿÿÿ
+[
+java:S2259Ê"?A "NullPointerException" could be thrown; "t" is nullable here.(ó£²ñüÿÿÿÿ
+@
+java:S1181K"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+m
+java:S3776V"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ìäïıÿÿÿÿ
+A
+java:S1181‡"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ

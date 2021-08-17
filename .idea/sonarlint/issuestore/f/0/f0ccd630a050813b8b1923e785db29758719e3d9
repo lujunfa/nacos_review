@@ -1,0 +1,27 @@
+
+E
+java:S1121ö".Extract the assignment out of this expression.(·ÀÀ
+E
+java:S1121¨".Extract the assignment out of this expression.(·ÀÀ
+q
+java:S1450B"VRemove the "logName" field and declare it as a local variable in the relevant methods.(òÅéøÿÿÿÿ
+t
+java:S1450>"YRemove the "serverList" field and declare it as a local variable in the relevant methods.(Ã…©³ýÿÿÿÿ
+Y
+java:S1117Å"=Rename "namespace" which hides the field declared at line 58.(ØÛÉ¢ýÿÿÿÿ
+]
+java:S3457Æ"AFormat specifiers should be used instead of string concatenation.(¯÷ÏËÿÿÿÿÿ
+T
+java:S1117Ï"=Rename "namespace" which hides the field declared at line 58.(ˆ“Ûú
+X
+java:S3457Ð"AFormat specifiers should be used instead of string concatenation.(æíÇø
+T
+java:S1117Ø"=Rename "namespace" which hides the field declared at line 58.(¿ƒèž
+]
+java:S3457Ù"AFormat specifiers should be used instead of string concatenation.(”Ù‹™ýÿÿÿÿ
+R
+java:S2696í"6Make the enclosing method "static" or remove this set.(ôòòçþÿÿÿÿ
+M
+java:S2696ð"6Make the enclosing method "static" or remove this set.(ñµßæ
+M
+java:S2696ñ"6Make the enclosing method "static" or remove this set.(ÚÂÏˆ

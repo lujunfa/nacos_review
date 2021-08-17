@@ -1,0 +1,33 @@
+
+m
+java:S1192¸"VDefine a constant instead of duplicating this literal "config data not exist" 3 times.(†¬º±
+F
+java:S1066€"/Merge this if statement with the enclosing one.(–É±û
+F
+java:S1066"/Merge this if statement with the enclosing one.(Ä¿ƒù
+t	java:S135«"YReduce the total number of break and continue statements in this loop to use at most one.(Öû“ôûÿÿÿÿ
+Y
+java:S2259ê"BA "NullPointerException" could be thrown; "file" is nullable here.(Ø®İü
+]
+java:S2259ó"AA "NullPointerException" could be thrown; "fis" is nullable here.(ö•ÃÏûÿÿÿÿ
+c
+java:S2259ï"LA "NullPointerException" could be thrown; "configInfoBase" is nullable here.(ÿÓø¨
+i
+java:S3776p"SRefactor this method to reduce its Cognitive Complexity from 107 to the 15 allowed.(À”¿Ç
+`
+java:S1134®"DTake the required action to fix the issue indicated by this comment.(ÔŞâüÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(–Ä³èøÿÿÿÿ
+`
+java:S1134Î"DTake the required action to fix the issue indicated by this comment.(ÔŞâüÿÿÿÿ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(–Ä³èøÿÿÿÿ
+N
+java:S1135û"2Complete the task associated to this TODO comment.(àÔ‘Ïşÿÿÿÿ
+E
+java:S2093{"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Z
+java:S1134‰"DTake the required action to fix the issue indicated by this comment.(²„Æp
+=
+java:S1172¢"&Remove these unused method parameters.(àÄÆê
+u
+java:S2142À"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+?	java:S108À")Either remove or fill this block of code.(”ı¾

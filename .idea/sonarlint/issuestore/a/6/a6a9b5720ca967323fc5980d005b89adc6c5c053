@@ -1,0 +1,13 @@
+
+Y
+java:S1155L">Use isEmpty() to check whether the collection is empty or not.(Û¬¡¿ıÿÿÿÿ
+w
+java:S1488^"\Immediately return this expression instead of assigning it to the temporary variable "host".(ë·„¿ùÿÿÿÿ
+3
+java:S2386&"Make this member "protected".(•›Ìæ
+U
+java:S1118!":Add a private constructor to hide the implicit public one.(±Œ™•øÿÿÿÿ
+[
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(•›Ìæ
+U
+java:S1118(":Add a private constructor to hide the implicit public one.(ºÎûÿÿÿÿ

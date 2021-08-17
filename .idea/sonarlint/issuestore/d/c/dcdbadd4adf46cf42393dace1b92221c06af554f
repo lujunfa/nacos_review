@@ -1,0 +1,368 @@
+
+¹
+java:S1192·"¡Define a constant instead of duplicating this literal "select a.ID,a.data_id,a.group_id,a.tenant_id,a.app_name,a.content from config_info  a left join " 6 times.(êà¯Ç
+e
+java:S1192ö"IDefine a constant instead of duplicating this literal "src_user" 3 times.(÷­ÏŸùÿÿÿÿ
+d
+java:S1192u"NDefine a constant instead of duplicating this literal "gmt_modified" 10 times.(üìÁï
+q
+java:S1192ö"ZDefine a constant instead of duplicating this literal "configInfoBetaCount error" 3 times.(¦Û¹
+„
+java:S1192à"hDefine a constant instead of duplicating this literal "select count(*) from config_info where " 4 times.(é‹áøÿÿÿÿ
+^
+java:S1192h"JDefine a constant instead of duplicating this literal "app_name" 11 times.(ËŒO
+]
+java:S1192â"FDefine a constant instead of duplicating this literal " 1=1 " 4 times.(­¯·á
+‚
+java:S1192˜"fDefine a constant instead of duplicating this literal "   ORDER BY id LIMIT ?,?             " 5 times.(—´Œúÿÿÿÿ
+l
+java:S1192ê"VDefine a constant instead of duplicating this literal " and group_id like ? " 4 times.(‘”Ù
+ƒ
+java:S1192–"gDefine a constant instead of duplicating this literal "   SELECT id FROM config_info         " 4 times.(›ŠÉòüÿÿÿÿ
+c
+java:S1192÷"GDefine a constant instead of duplicating this literal " and " 10 times.(Û“Ò÷ÿÿÿÿÿ
+_
+java:S1192k"IDefine a constant instead of duplicating this literal "content" 12 times.(­É¢Õ
+k
+java:S1192¹"UDefine a constant instead of duplicating this literal " and b.tag_name in (" 9 times.(ºº¤S
+d
+java:S1192«"HDefine a constant instead of duplicating this literal "appName" 6 times.(èúèşÿÿÿÿ
+o
+java:S1192ò"SDefine a constant instead of duplicating this literal " and app_name = ? " 3 times.(°‚ŠŒøÿÿÿÿ
+r
+java:S1192™"[Define a constant instead of duplicating this literal "error in addAggrConfigInfo" 3 times.(™µ²¸
+c
+java:S1192â"LDefine a constant instead of duplicating this literal "tenant_id=?" 3 times.(²Æø‚
+e
+java:S1192f"JDefine a constant instead of duplicating this literal "group_id" 15 times.(şİÍÚşÿÿÿÿ
+d
+java:S1192î"MDefine a constant instead of duplicating this literal "[db-error] " 76 times.(âÏ½¦
+f
+java:S1192g"KDefine a constant instead of duplicating this literal "tenant_id" 14 times.(£ÒµÎşÿÿÿÿ
+o
+java:S1192Å"SDefine a constant instead of duplicating this literal " and a.app_name=? " 8 times.(ÆêÅıÿÿÿÿ
+ƒ
+java:S1192™"gDefine a constant instead of duplicating this literal " ) g, config_info t                   " 4 times.(ì¥·ƒúÿÿÿÿ
+x
+java:S1192ñ	"aDefine a constant instead of duplicating this literal "select count(*) from config_info" 3 times.(«ÉîÀ
+h
+java:S1192ç"QDefine a constant instead of duplicating this literal "[db-other-error]" 7 times.(­¸À
+q
+java:S1192æ"UDefine a constant instead of duplicating this literal " and data_id like ? " 4 times.(»ˆ¼Øøÿÿÿÿ
+m
+java:S1192Ê"QDefine a constant instead of duplicating this literal " and app_name=? " 8 times.(ùÒÁÔûÿÿÿÿ
+c
+java:S1192ú"GDefine a constant instead of duplicating this literal "effect" 4 times.(²“õ¥úÿÿÿÿ
+^
+java:S1192÷"GDefine a constant instead of duplicating this literal "src_ip" 4 times.(òëŒª
+^
+java:S1192e"IDefine a constant instead of duplicating this literal "data_id" 15 times.(”ÿæ$
+ƒ
+java:S1192•"gDefine a constant instead of duplicating this literal " FROM (                               " 6 times.(¹“öúÿÿÿÿ
+}
+java:S1192š"gDefine a constant instead of duplicating this literal " WHERE g.id = t.id                    " 6 times.(‹¹Î
+l
+java:S1192ö"UDefine a constant instead of duplicating this literal " and content like ? " 3 times.(ÎŒØÉ
+h
+java:S1192ä"LDefine a constant instead of duplicating this literal "config_tags" 8 times.(’“Ÿ‚úÿÿÿÿ
+W	java:S107ï"<Method has 9 parameters, which is greater than 7 authorized.(ª£ÙÑûÿÿÿÿ
+a	java:S112è"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112·"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112—"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112¯"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+8
+java:S1643÷"Use a StringBuilder instead.(Û“Ò÷ÿÿÿÿÿ
+8
+java:S1643ù"Use a StringBuilder instead.(Û“Ò÷ÿÿÿÿÿ
+3
+java:S1643ü"Use a StringBuilder instead.(ï‡û
+8
+java:S1643ÿ"Use a StringBuilder instead.(µ×š¶øÿÿÿÿ
+3
+java:S1643…"Use a StringBuilder instead.(°…•±
+8
+java:S1643‡"Use a StringBuilder instead.(Ê¥ôßûÿÿÿÿ
+3
+java:S1643"Use a StringBuilder instead.(°…•±
+3
+java:S1643"Use a StringBuilder instead.(§§ıá
+2
+java:S1643“"Use a StringBuilder instead.(É·ãG
+8
+java:S1643—"Use a StringBuilder instead.(Û“Ò÷ÿÿÿÿÿ
+3
+java:S1643™"Use a StringBuilder instead.(°…•±
+3
+java:S1643›"Use a StringBuilder instead.(ï‡û
+2
+java:S1643"Use a StringBuilder instead.(¤‰Óv
+8
+java:S1643¤"Use a StringBuilder instead.(Û“Ò÷ÿÿÿÿÿ
+3
+java:S1643¦"Use a StringBuilder instead.(œ«”¿
+8
+java:S1643¬"Use a StringBuilder instead.(Û“Ò÷ÿÿÿÿÿ
+8
+java:S1643®"Use a StringBuilder instead.(ÿ¦‰«ûÿÿÿÿ
+2
+java:S1643²"Use a StringBuilder instead.(É·ãG
+8
+java:S1643İ"Use a StringBuilder instead.(Û“Ò÷ÿÿÿÿÿ
+8
+java:S1643ß"Use a StringBuilder instead.(Û“Ò÷ÿÿÿÿÿ
+3
+java:S1643â"Use a StringBuilder instead.(ï‡û
+8
+java:S1643å"Use a StringBuilder instead.(µ×š¶øÿÿÿÿ
+3
+java:S1643ë"Use a StringBuilder instead.(°…•±
+8
+java:S1643í"Use a StringBuilder instead.(Ê¥ôßûÿÿÿÿ
+3
+java:S1643ó"Use a StringBuilder instead.(°…•±
+3
+java:S1643õ"Use a StringBuilder instead.(§§ıá
+2
+java:S1643ù"Use a StringBuilder instead.(É·ãG
+8
+java:S1643ı"Use a StringBuilder instead.(Û“Ò÷ÿÿÿÿÿ
+3
+java:S1643ÿ"Use a StringBuilder instead.(°…•±
+3
+java:S1643"Use a StringBuilder instead.(ï‡û
+2
+java:S1643„"Use a StringBuilder instead.(¤‰Óv
+8
+java:S1643Š"Use a StringBuilder instead.(Û“Ò÷ÿÿÿÿÿ
+3
+java:S1643Œ"Use a StringBuilder instead.(œ«”¿
+8
+java:S1643’"Use a StringBuilder instead.(Û“Ò÷ÿÿÿÿÿ
+8
+java:S1643”"Use a StringBuilder instead.(ÿ¦‰«ûÿÿÿÿ
+2
+java:S1643˜"Use a StringBuilder instead.(É·ãG
+Q
+java:S1141†"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+?
+java:S1604ß"(Make this anonymous inner class a lambda(æ£Çï
+?
+java:S1604¯"(Make this anonymous inner class a lambda(æ£Çï
+?
+java:S1604ß"(Make this anonymous inner class a lambda(æ£Çï
+D
+java:S1604’"(Make this anonymous inner class a lambda(¨Õ‡óûÿÿÿÿ
+?
+java:S1604¸"(Make this anonymous inner class a lambda(¿¢ÀÑ
+g
+java:S2259Ú"KA "NullPointerException" could be thrown; "configAdvance" is nullable here.(¬öæüÿÿÿÿ
+g
+java:S2259·"KA "NullPointerException" could be thrown; "configAdvance" is nullable here.(¬öæüÿÿÿÿ
+`
+java:S2583õ"DChange this condition so that it does not always evaluate to "false"(è‹åíøÿÿÿÿ
+`
+java:S2583İ"DChange this condition so that it does not always evaluate to "false"(è‹åíøÿÿÿÿ
+`
+java:S2583„"DChange this condition so that it does not always evaluate to "false"(è‹åíøÿÿÿÿ
+S
+java:S2589Š"7Remove this expression which always evaluates to "true"(›ÒÜÏıÿÿÿÿ
+z
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(ğöÿ›ùÿÿÿÿ
+z
+java:S1488Ì"cImmediately return this expression instead of assigning it to the temporary variable "historyInfo".(»µÑŸ
+m
+java:S3008ë"VRename this field "PATTERN_STR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÎÿ’
+>	java:S108{")Either remove or fill this block of code.(É®£
+?	java:S108")Either remove or fill this block of code.(É®£
+?	java:S108Á")Either remove or fill this block of code.(É®£
+?	java:S108»")Either remove or fill this block of code.(É®£
+?	java:S108Ø")Either remove or fill this block of code.(É®£
+8
+java:S1116°"Remove this empty statement.(Åñ­õşÿÿÿÿ
+E
+java:S1172„".Remove this unused method parameter "srcUser".(¦ú‰ê
+E
+java:S1172".Remove this unused method parameter "srcUser".(¦ú‰ê
+P
+java:S1854§"9Remove this useless assignment to local variable "index".(â¿«ª
+U
+java:S1854½"9Remove this useless assignment to local variable "index".(èû¡†şÿÿÿÿ
+u
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(»’Èáÿÿÿÿÿ
+O
+java:S3878ô"8Remove this array creation and simply pass the elements.(ÓíÇÆ
+A
+java:S1181›"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+A
+java:S1181Æ"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+L
+java:S1133Ü"5Do not forget to remove this deprecated code someday.(ì±Ü¨
+?
+java:S1123Ü"(Add the missing @deprecated Javadoc tag.(ì±Ü¨
+h
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(·¡‘>
+u
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(æğ¸±øÿÿÿÿ
+u
+java:S2293Œ	"YReplace the type specification in this constructor call with the diamond operator ("<>").(»’Èáÿÿÿÿÿ
+u
+java:S2293£	"YReplace the type specification in this constructor call with the diamond operator ("<>").(»’Èáÿÿÿÿÿ
+u
+java:S2293´	"YReplace the type specification in this constructor call with the diamond operator ("<>").(»’Èáÿÿÿÿÿ
+u
+java:S2293º	"YReplace the type specification in this constructor call with the diamond operator ("<>").(æğ¸±øÿÿÿÿ
+n
+java:S3776ê	"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(™‰ üÿÿÿÿ
+u
+java:S2293î	"YReplace the type specification in this constructor call with the diamond operator ("<>").(»’Èáÿÿÿÿÿ
+u
+java:S2293ô	"YReplace the type specification in this constructor call with the diamond operator ("<>").(æğ¸±øÿÿÿÿ
+p
+java:S2293·
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(şäğÛ
+u
+java:S2293Ñ
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(»’Èáÿÿÿÿÿ
+u
+java:S2293é
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(»’Èáÿÿÿÿÿ
+u
+java:S2293ú
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(»’Èáÿÿÿÿÿ
+u
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(æğ¸±øÿÿÿÿ
+u
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(»’Èáÿÿÿÿÿ
+u
+java:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(»’Èáÿÿÿÿÿ
+u
+java:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(æğ¸±øÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(şäğÛ
+T
+java:S3878Ü"8Remove this array creation and simply pass the elements.(³õ¸“øÿÿÿÿ
+u
+java:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(»’Èáÿÿÿÿÿ
+p
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü»Öª
+L
+java:S1133á"5Do not forget to remove this deprecated code someday.(Ó¯¯·
+?
+java:S1123á"(Add the missing @deprecated Javadoc tag.(Ó¯¯·
+p
+java:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(şäğÛ
+
+java:S1186ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãˆüÿÿÿÿ
+
+java:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÖÂ•«ùÿÿÿÿ
+
+java:S1186°"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(šô™ıÿÿÿÿ
+p
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒÃ¸
+u
+java:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã§¹ãøÿÿÿÿ
+p
+java:S2293à"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒÃ¸
+u
+java:S2293ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò©±‘ıÿÿÿÿ
+u
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(²…È´ùÿÿÿÿ
+u
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôåŠ†øÿÿÿÿ
+p
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(”Èú£
+u
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(»’Èáÿÿÿÿÿ
+u
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã§¹ãøÿÿÿÿ
+i
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¡ç×
+u
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(»’Èáÿÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã§¹ãøÿÿÿÿ
+U
+java:S1854‘">Remove this useless assignment to local variable "isFirstSub".(õ‚ãÈ
+U
+java:S1854°">Remove this useless assignment to local variable "isFirstSub".(õ‚ãÈ
+i
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(Ù§Ä–
+>
+java:S1125á"'Remove the unnecessary boolean literal.(îŸÇ³
+u
+java:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(ãËáÄÿÿÿÿÿ
+u
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(»’Èáÿÿÿÿÿ
+u
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã§¹ãøÿÿÿÿ
+p
+java:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(şäğÛ
+u
+java:S2293Ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã§¹ãøÿÿÿÿ
+u
+java:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(´öúûÿÿÿÿÿ
+U
+java:S1854÷">Remove this useless assignment to local variable "isFirstSub".(õ‚ãÈ
+U
+java:S1854–">Remove this useless assignment to local variable "isFirstSub".(õ‚ãÈ
+n
+java:S3776À"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.( Ä¦›ùÿÿÿÿ
+>
+java:S1125È"'Remove the unnecessary boolean literal.(îŸÇ³
+u
+java:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì²Çòøÿÿÿÿ
+u
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(´öúûÿÿÿÿÿ
+u
+java:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã§¹ãøÿÿÿÿ
+B
+java:S1168´"+Return an empty collection instead of null.(¥¹ï
+]
+java:S2147Ì"FCombine this catch with the one at line 2506, which has the same body.(üÄëÓ
+B
+java:S1168Ë"+Return an empty collection instead of null.(¥¹ï
+B
+java:S1168Í"+Return an empty collection instead of null.(¥¹ï
+N
+java:S3878Û"8Remove this array creation and simply pass the elements.(ØªŸ
+p
+java:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶‘Ë¯
+p
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒÃ¸
+N
+java:S3878¦"8Remove this array creation and simply pass the elements.(ØªŸ
+]
+java:S2147¥"FCombine this catch with the one at line 2723, which has the same body.(üÄëÓ
+B
+java:S1168¤"+Return an empty collection instead of null.(¥¹ï
+B
+java:S1168¦"+Return an empty collection instead of null.(¥¹ï
+]
+java:S2147³"FCombine this catch with the one at line 2737, which has the same body.(üÄëÓ
+B
+java:S1168²"+Return an empty collection instead of null.(¥¹ï
+B
+java:S1168´"+Return an empty collection instead of null.(¥¹ï
+B
+java:S1172Å"&Remove these unused method parameters.(óÚ§Ãşÿÿÿÿ
+p
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(ĞÑì‰
+o
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâ±
+u
+java:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(åô†§úÿÿÿÿ
+p
+java:S2293à"YReplace the type specification in this constructor call with the diamond operator ("<>").(“ª‘ø
+p
+java:S2293ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒÃ¸
+d
+java:S5361û"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÍŠİãüÿÿÿÿ
+A
+java:S1181”"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+n
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(àÅşÔÿÿÿÿÿ
+a
+java:S1124ì"EReorder the modifiers to comply with the Java Language Specification.(Ğë»Îúÿÿÿÿ

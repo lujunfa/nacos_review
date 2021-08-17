@@ -1,0 +1,8 @@
+
+`	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(®ÕûŞüÿÿÿÿ
+`	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(œŸØÕùÿÿÿÿ
+c
+java:S4488+"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(×—íöúÿÿÿÿ
+f	java:S128;"LEnd this switch case with an unconditional break, return or throw statement.(èœĞ¾úÿÿÿÿ
+]
+java:S4488C"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ú¼ğ

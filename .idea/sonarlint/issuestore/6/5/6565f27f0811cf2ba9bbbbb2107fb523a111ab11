@@ -1,0 +1,9 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(½”æÈ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(©âô•
+s
+java:S21398"XEither log this exception and handle it, or rethrow it with some contextual information.(é–³öûÿÿÿÿ
+@
+java:S1181Q"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ

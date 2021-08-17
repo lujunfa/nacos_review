@@ -1,0 +1,21 @@
+
+E
+java:S10663"/Merge this if statement with the enclosing one.(®ÂŒ÷
+P
+java:S1141h"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141o"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141€"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+€
+java:S1488K"eImmediately return this expression instead of assigning it to the temporary variable "lineSeparator".(³¡šÎÿÿÿÿÿ
+O
+java:S1118(":Add a private constructor to hide the implicit public one.(äÂøx
+@
+java:S1181E"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+m
+java:S3776O"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(Ë×‚äùÿÿÿÿ
+A
+java:S1181‘"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+@
+java:S1181y"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ

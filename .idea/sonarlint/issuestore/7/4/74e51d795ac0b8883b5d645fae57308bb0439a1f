@@ -1,0 +1,36 @@
+
+`
+java:S1192Ì"IDefine a constant instead of duplicating this literal "metadata" 5 times.(ŒÍú
+g
+java:S1192X"LDefine a constant instead of duplicating this literal "cacheMillis" 3 times.(‘ë®Àúÿÿÿÿ
+e
+java:S1192œ"IDefine a constant instead of duplicating this literal "clusters" 3 times.(Š¥ÛÊşÿÿÿÿ
+c
+java:S1192Ê"GDefine a constant instead of duplicating this literal "weight" 3 times.(˜—²ğşÿÿÿÿ
+d
+java:S1192Ë"HDefine a constant instead of duplicating this literal "healthy" 3 times.( î¥çûÿÿÿÿ
+]
+java:S1192‰"FDefine a constant instead of duplicating this literal "1.0.0" 3 times.(•È†ª
+X	java:S107ë"=Method has 11 parameters, which is greater than 7 authorized.(‡ÃÊıÿÿÿÿ
+`	java:S112k"FDefine and throw a dedicated exception instead of using a generic one.(Ç‹¢âøÿÿÿÿ
+a	java:S112¬"FDefine and throw a dedicated exception instead of using a generic one.(äİœ€şÿÿÿÿ
+a	java:S112×"FDefine and throw a dedicated exception instead of using a generic one.(Ö–¥€şÿÿÿÿ
+a	java:S112µ"FDefine and throw a dedicated exception instead of using a generic one.(’èäéşÿÿÿÿ
+\	java:S112ç"FDefine and throw a dedicated exception instead of using a generic one.(¬È¯
+\	java:S112å"FDefine and throw a dedicated exception instead of using a generic one.(Êßƒ‡
+^
+java:S1128"HRemove this unused import 'com.alibaba.nacos.naming.cluster.ServerMode'.(ôê©Ü
+e
+java:S4488_"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Õ¡¤ùÿÿÿÿ
+d
+java:S4488j"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(¶ÃŞğ
+c
+java:S4488|"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ÆÑ“åøÿÿÿÿ
+d
+java:S4488‘"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÏÊÃ×ûÿÿÿÿ
+_
+java:S4488«"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¤úÙ
+d
+java:S4488Ö"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ŞÇœ‚úÿÿÿÿ
+n
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(‡ÃÊıÿÿÿÿ

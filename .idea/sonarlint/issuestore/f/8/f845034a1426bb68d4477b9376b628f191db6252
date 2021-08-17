@@ -1,0 +1,29 @@
+
+z
+java:S1488["dImmediately return this expression instead of assigning it to the temporary variable "namespaceTmp".(ø˜‹
+
+java:S1488a"dImmediately return this expression instead of assigning it to the temporary variable "namespaceTmp".(ı„ûÒúÿÿÿÿ
+E
+java:S20650"0Remove the "transient" modifier from this field.(®ÓòL
+^
+java:S4488:"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æøîç
+t
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûæëÕüÿÿÿÿ
+M
+java:S1135>"2Complete the task associated to this TODO comment.(ğ²Ò—ùÿÿÿÿ
+o
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ·¯Ğ
+^
+java:S4488V"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Û÷à
+M
+java:S1135Y"2Complete the task associated to this TODO comment.(ğ²Ò—ùÿÿÿÿ
+e
+java:S4488q"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ßƒµ¢şÿÿÿÿ
+M
+java:S1135w"2Complete the task associated to this TODO comment.(ğ²Ò—ùÿÿÿÿ
+_
+java:S4488‰"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(›¼¹
+N
+java:S1135"2Complete the task associated to this TODO comment.(ğ²Ò—ùÿÿÿÿ
+j
+java:S4488"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(àÌêûùÿÿÿÿ

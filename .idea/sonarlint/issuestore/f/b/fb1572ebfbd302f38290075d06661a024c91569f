@@ -1,0 +1,14 @@
+
+;
+java:S2629"$Invoke method(s) only conditionally.(¨Â½ø
+;
+java:S2629§"$Invoke method(s) only conditionally.(¨Â½ø
+;
+java:S2629"$Invoke method(s) only conditionally.(‹í¼‡
+q	java:S116:"WRename this field "POST_TIMEOUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğé„áûÿÿÿÿ
+<
+java:S1170:"!Make this final field static too.(Ğé„áûÿÿÿÿ
+S
+java:S1117a"=Rename "namespace" which hides the field declared at line 67.(ˆ“Ûú
+]
+java:S3457È"AFormat specifiers should be used instead of string concatenation.(¤ĞÃÑûÿÿÿÿ

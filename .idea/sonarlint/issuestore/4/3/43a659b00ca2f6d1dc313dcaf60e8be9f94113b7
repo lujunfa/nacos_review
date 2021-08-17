@@ -1,0 +1,17 @@
+
+J
+java:S1066T"/Merge this if statement with the enclosing one.(£©ÓÉúÿÿÿÿ
+Z	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(âóøx
+`	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(ö¹ž€ýÿÿÿÿ
+`
+java:S2259w"EA "NullPointerException" could be thrown; "service" is nullable here.(›¾‰Âüÿÿÿÿ
+o
+java:S3008."YRename this field "APP_WHITE_LIST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¢»¬
+q
+java:S3008/"[Rename this field "TOKEN_WHITE_LIST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ØÑ¯
+[
+java:S1124."EReorder the modifiers to comply with the Java Language Specification.(·¢»¬
+[
+java:S1124/"EReorder the modifiers to comply with the Java Language Specification.(‰ØÑ¯
+H
+java:S1172D"-Remove this unused method parameter "params".(ö¹ž€ýÿÿÿÿ

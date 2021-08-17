@@ -1,0 +1,27 @@
+
+\
+java:S1192I"FDefine a constant instead of duplicating this literal "UTF-8" 5 times.(ÅÒñ´
+`	java:S112G"FDefine and throw a dedicated exception instead of using a generic one.(¡¹³úúÿÿÿÿ
+[	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(üøÎâ
+`	java:S112m"FDefine and throw a dedicated exception instead of using a generic one.(ñ”òıÿÿÿÿ
+`	java:S112z"FDefine and throw a dedicated exception instead of using a generic one.(âÈåÍûÿÿÿÿ
+^
+java:S1128"HRemove this unused import 'com.alibaba.nacos.naming.cluster.ServerMode'.(ôê©Ü
+c
+java:S4488F"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(Û‡¯İÿÿÿÿÿ
+O
+java:S4719I"9Replace charset name argument with StandardCharsets.UTF_8(ÅÒñ´
+]
+java:S4488a"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(òˆÅ
+O
+java:S4719d"9Replace charset name argument with StandardCharsets.UTF_8(ÅÒñ´
+c
+java:S4488l"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÏĞƒüÿÿÿÿ
+O
+java:S4719o"9Replace charset name argument with StandardCharsets.UTF_8(ÅÒñ´
+O
+java:S4719v"9Replace charset name argument with StandardCharsets.UTF_8(Ã˜õ½
+^
+java:S4488y"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"( †‹Â
+T
+java:S4719{"9Replace charset name argument with StandardCharsets.UTF_8(ÿåâ€ùÿÿÿÿ

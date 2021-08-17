@@ -1,0 +1,29 @@
+
+\
+java:S3518‚"EMake sure "originWeightSum" can't be zero before doing this division.(¡®­¿
+E
+java:S3740È"/Provide the parametrized type for this generic.(¼»ó
+Q
+java:S10665"/Merge this if statement with the enclosing one.(§œ¸Œøÿÿÿÿ8üìéõ /
+T
+java:S1155!">Use isEmpty() to check whether the collection is empty or not.(º¡Èý
+X
+java:S4977Z"=Rename "T" which hides a type parameter from the outer scope.(Ù ÿêøÿÿÿÿ
+r
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Óß³ÿþÿÿÿÿ
+M
+java:S1117+"7Rename "ref" which hides the field declared at line 29.(ü‡ê–
+M
+java:S1117E"7Rename "ref" which hides the field declared at line 29.(ðºÏè
+?
+java:S1940l")Use the opposite operator ("<=") instead.(ÎÛÞþ
+D
+java:S1940")Use the opposite operator ("<=") instead.(©‹øÏýÿÿÿÿ
+E
+java:S1940")Use the opposite operator (">=") instead.(œÃˆÖùÿÿÿÿ
+i
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(°Ñµ˜
+d
+java:S1871Ð"MThis branch's code block is the same as the block for the branch on line 206.(•­¯§
+d
+java:S1871Ý"MThis branch's code block is the same as the block for the branch on line 219.(ã€¸”

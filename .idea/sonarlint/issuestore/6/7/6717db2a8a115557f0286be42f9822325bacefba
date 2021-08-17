@@ -1,0 +1,16 @@
+
+>
+java:S1604˜"(Make this anonymous inner class a lambda(û¢äW
+s	java:S116;"YRename this field "LOCALHOST_SITE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Þä÷ûÿÿÿÿ
+<
+java:S1170;"!Make this final field static too.(¸Þä÷ûÿÿÿÿ
+n
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(°ªú«ùÿÿÿÿ
+W
+java:S1117ç";Rename "servers" which hides the field declared at line 51.(Ìÿ¶ëûÿÿÿÿ
+u
+java:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¦Óšýÿÿÿÿ
+i
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(À€¥¿
+p
+java:S2293Ð"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïÕÅî

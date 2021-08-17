@@ -1,0 +1,7 @@
+
+^
+java:S4488<"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ò‘“¼
+^
+java:S4488T"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ú½ô
+c
+java:S4488c"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(²æ„¬ûÿÿÿÿ

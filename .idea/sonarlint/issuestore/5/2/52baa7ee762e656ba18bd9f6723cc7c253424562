@@ -1,0 +1,85 @@
+
+j
+java:S1192İ"NDefine a constant instead of duplicating this literal "DEFAULT_GROUP" 6 times.(şŞ‚Âıÿÿÿÿ
+d
+java:S1192é"MDefine a constant instead of duplicating this literal "reload fail:" 3 times.(Ù´½ş
+i
+java:S1192L"SDefine a constant instead of duplicating this literal "lastModifiedNew={}" 4 times.(Ú­î´
+
+java:S1192Á"eDefine a constant instead of duplicating this literal "[remove-error] write lock failed. {}" 3 times.(âıõÜıÿÿÿÿ
+q
+java:S1192º"ZDefine a constant instead of duplicating this literal "[remove-ok] {} not exist." 3 times.(»Ô²İ
+F
+java:S1066ô"/Merge this if statement with the enclosing one.(ó„¶×
+F
+java:S1066ù"/Merge this if statement with the enclosing one.(òøÚû
+U
+java:S1118,":Add a private constructor to hide the implicit public one.(ç†Ö°üÿÿÿÿ
+[
+java:S11241"EReorder the modifiers to comply with the Java Language Specification.(òŞ«Ÿ
+`
+java:S11245"EReorder the modifiers to comply with the Java Language Specification.(‹·ŞÌıÿÿÿÿ
+[
+java:S1124<"EReorder the modifiers to comply with the Java Language Specification.(øÚ¥¹
+`
+java:S1124g"EReorder the modifiers to comply with the Java Language Specification.(ñÇ¦øÿÿÿÿ
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ê†ìÍÿÿÿÿÿ
+a
+java:S1124´"EReorder the modifiers to comply with the Java Language Specification.(……·şÿÿÿÿ
+n
+java:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÒıÙüÿÿÿÿ
+a
+java:S1124Ø"EReorder the modifiers to comply with the Java Language Specification.(ÒıÙüÿÿÿÿ
+a
+java:S1124•"EReorder the modifiers to comply with the Java Language Specification.(Çúÿÿÿÿ
+u
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(£úÆ–ûÿÿÿÿ
+\
+java:S1124³"EReorder the modifiers to comply with the Java Language Specification.(±¸¿Ò
+a
+java:S1124Õ"EReorder the modifiers to comply with the Java Language Specification.(‘Ò—ûÿÿÿÿ
+\
+java:S1124ø"EReorder the modifiers to comply with the Java Language Specification.(¿¿ˆË
+p
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(©ÃÆß
+p
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈöÕ‹
+a
+java:S1124Ç"EReorder the modifiers to comply with the Java Language Specification.(±©Èœøÿÿÿÿ
+[
+java:S1124Ï"EReorder the modifiers to comply with the Java Language Specification.(©üçh
+\
+java:S1124×"EReorder the modifiers to comply with the Java Language Specification.(º‚˜‰
+\
+java:S1124å"EReorder the modifiers to comply with the Java Language Specification.(£Ùã¹
+\
+java:S1124í"EReorder the modifiers to comply with the Java Language Specification.(¤¥Ü¾
+[
+java:S1124ñ"EReorder the modifiers to comply with the Java Language Specification.(¨–6
+a
+java:S1124€"EReorder the modifiers to comply with the Java Language Specification.(æ»œ¢ùÿÿÿÿ
+\
+java:S1124…"EReorder the modifiers to comply with the Java Language Specification.(é‚¹‰
+\
+java:S1124Š"EReorder the modifiers to comply with the Java Language Specification.(ï­Øü
+a
+java:S1124•"EReorder the modifiers to comply with the Java Language Specification.(—íş›ûÿÿÿÿ
+[
+java:S3358—"DExtract this nested ternary operation into an independent statement.(¶Ìüğ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(–ÚÓ$
+`
+java:S3358­"DExtract this nested ternary operation into an independent statement.(¹êÛÆüÿÿÿÿ
+\
+java:S1124Å"EReorder the modifiers to comply with the Java Language Specification.(¼£—¿
+\
+java:S1124Æ"EReorder the modifiers to comply with the Java Language Specification.(ğÒÛû
+\
+java:S1124Ç"EReorder the modifiers to comply with the Java Language Specification.(³˜ñ„
+a
+java:S1124È"EReorder the modifiers to comply with the Java Language Specification.(„ì¿òüÿÿÿÿ
+a
+java:S1124Í"EReorder the modifiers to comply with the Java Language Specification.(ğ¹‘¡ıÿÿÿÿ
+p
+java:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ù Ü

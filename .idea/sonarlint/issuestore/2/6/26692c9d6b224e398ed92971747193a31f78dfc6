@@ -1,0 +1,27 @@
+
+
+java:S13197"The return type of this method should be an interface such as "ConcurrentMap" rather than the implementation "ConcurrentHashMap".(âÊ¦‰ÿÿÿÿÿ
+b
+java:S2095v"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ûÜâ!
+j
+java:S2095È"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(üÿ•Øşÿÿÿÿ
+[	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(å†š™
+\	java:S112°"FDefine and throw a dedicated exception instead of using a generic one.(ş‚’
+a	java:S112Õ"FDefine and throw a dedicated exception instead of using a generic one.(ñ±Í£ûÿÿÿÿ
+a	java:S112í"FDefine and throw a dedicated exception instead of using a generic one.(Î¿®«üÿÿÿÿ
+Q
+java:S1141ˆ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+H
+java:S1172q"2Remove this unused method parameter "namespaceId".(‚¡Íş
+O
+java:S4719z"9Replace charset name argument with StandardCharsets.UTF_8(ÖÉıò
+E
+java:S2093u"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+F
+java:S2093Ç"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+S
+java:S1117Ö"<Rename "cacheDir" which hides the field declared at line 53.(üØ—Å
+j
+java:S4042æ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(öÄÛÊşÿÿÿÿ
+J
+java:S1144ş"3Remove this unused private "decodeFileName" method.(ïÖàÚ

@@ -1,0 +1,23 @@
+
+@
+java:S2629Œ"$Invoke method(s) only conditionally.( ßÜžÿÿÿÿÿ
+@
+java:S2629¡"$Invoke method(s) only conditionally.( ßÜžÿÿÿÿÿ
+;
+java:S2629î"$Invoke method(s) only conditionally.(“·÷Å
+Q
+java:S1141Ñ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141è"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+o
+java:S2139Ù"XEither log this exception and handle it, or rethrow it with some contextual information.(ï­£Ä
+2
+java:S3626¢"Remove this redundant jump.(ûÁÝ…
+A
+java:S1181¼"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+i
+java:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(“–ýþ
+A
+java:S1181þ"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+C
+java:S3398ý",Move this method into "LongPollingRunnable".(Šºƒ×

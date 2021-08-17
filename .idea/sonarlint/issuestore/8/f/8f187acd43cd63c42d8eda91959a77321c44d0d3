@@ -1,0 +1,21 @@
+
+G
+java:S1444"1Make this "public static WEB_CONTEXT" field final(·†Áÿ
+I
+java:S1444"4Make this "public static NACOS_URL_BASE" field final(Ø¯Ù
+S
+java:S1444"8Make this "public static NACOS_URL_INSTANCE" field final(™âŠ°ùÿÿÿÿ
+m
+java:S1104"WMake WEB_CONTEXT a static final constant or non-public and provide accessors if needed.(·†Áÿ
+o
+java:S1104"ZMake NACOS_URL_BASE a static final constant or non-public and provide accessors if needed.(Ø¯Ù
+y
+java:S1104"^Make NACOS_URL_INSTANCE a static final constant or non-public and provide accessors if needed.(™âŠ°ùÿÿÿÿ
+l
+java:S3008"VRename this field "WEB_CONTEXT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·†Áÿ
+n
+java:S3008"YRename this field "NACOS_URL_BASE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¯Ù
+x
+java:S3008"]Rename this field "NACOS_URL_INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™âŠ°ùÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ß®Ûëøÿÿÿÿ

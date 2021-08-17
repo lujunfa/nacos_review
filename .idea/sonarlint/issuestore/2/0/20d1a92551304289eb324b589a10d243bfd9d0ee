@@ -1,0 +1,56 @@
+
+q
+java:S1192ã"UDefine a constant instead of duplicating this literal "{}|{}|{}|{}|{}|{}|{}" 3 times.(¦ÌÙ‹úÿÿÿÿ
+_
+java:S1192ä"HDefine a constant instead of duplicating this literal "polling" 5 times.(‘ãñ·
+J
+java:S1066c"/Merge this if statement with the enclosing one.(‚Î‰øÿÿÿÿ
+F
+java:S1066¯"/Merge this if statement with the enclosing one.(‹ªÅ¿
+t	java:S135²"YReduce the total number of break and continue statements in this loop to use at most one.(¸¬Ñãøÿÿÿÿ
+Z
+java:S1155á">Use isEmpty() to check whether the collection is empty or not.(ò­Ûšüÿÿÿÿ
+Z
+java:S1155‡">Use isEmpty() to check whether the collection is empty or not.(ò­Ûšüÿÿÿÿ
+D
+java:S1604“"(Make this anonymous inner class a lambda(ÿåµÇùÿÿÿÿ
+D
+java:S1604õ"(Make this anonymous inner class a lambda(‚Âİáÿÿÿÿÿ
+{
+java:S1488¥"dImmediately return this expression instead of assigning it to the temporary variable "sampleResult".(€ë
+o
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê¡ãĞ
+P
+java:S6213E":Rename this variable to not match a restricted identifier.(ğôíœ
+o
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹¨æã
+o
+java:S2293^"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹¨æã
+o
+java:S2293t"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹¨æã
+p
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(û£Í
+p
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Üåí±
+u
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄİÁıÿÿÿÿ
+u
+java:S2142Ÿ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+u
+java:S2142·"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+u
+java:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(âæÁÜúÿÿÿÿ
+a
+java:S1124‹"EReorder the modifiers to comply with the Java Language Specification.(òÄäûÿÿÿÿ
+p
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆ™ºı
+\
+java:S1124¡"EReorder the modifiers to comply with the Java Language Specification.(¨‰¤
+\
+java:S1124¢"EReorder the modifiers to comply with the Java Language Specification.(ÜÃ¬
+A
+java:S1181Ê"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+A
+java:S1181”"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+E
+java:S1172İ".Remove this unused method parameter "request".(ë€í¸

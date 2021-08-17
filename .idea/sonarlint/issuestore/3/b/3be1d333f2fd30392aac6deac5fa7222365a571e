@@ -1,0 +1,17 @@
+
+F
+java:S1066ë"/Merge this if statement with the enclosing one.(„ØÊß
+`
+java:S1128"JRemove this unused import 'com.alibaba.nacos.naming.misc.UtilsAndCommons'.(€½žº
+-
+java:S2176!"Rename this class.(’ùº€þÿÿÿÿ
+n
+java:S2975w"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ƒ¢‰€ÿÿÿÿÿ
+o
+java:S2293}"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò’ÜÜ
+i
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÿ„™õ
+i
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(×˜°î
+u
+java:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê÷šÔúÿÿÿÿ

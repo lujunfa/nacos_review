@@ -1,0 +1,11 @@
+
+F
+java:S1444"0Make this "public static requestLog" field final(¡‡×ã
+K
+java:S1444#"0Make this "public static pollingLog" field final(ÅžˆÆúÿÿÿÿ
+l
+java:S1104"VMake requestLog a static final constant or non-public and provide accessors if needed.(¡‡×ã
+q
+java:S1104#"VMake pollingLog a static final constant or non-public and provide accessors if needed.(ÅžˆÆúÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(“ÂîÜ

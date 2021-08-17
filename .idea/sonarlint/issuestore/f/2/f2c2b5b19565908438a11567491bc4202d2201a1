@@ -1,0 +1,10 @@
+
+`	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(úÜúÝüÿÿÿÿ
+B
+java:S1128"-Remove this unused import 'org.slf4j.Logger'.(íØ®6
+J
+java:S1128"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚÞ
+_
+java:S44887"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¾ëÌo
+o
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(À®ë¯

@@ -1,0 +1,8 @@
+
+`	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(èÝÎÑþÿÿÿÿ
+g
+java:S37768"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ó¡Ëi
+^
+java:S44886"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æøîç
+o
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(³•ðß

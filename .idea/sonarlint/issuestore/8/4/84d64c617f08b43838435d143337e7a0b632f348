@@ -1,0 +1,10 @@
+
+`	java:S112c"FDefine and throw a dedicated exception instead of using a generic one.(¦ìè¸üÿÿÿÿ
+j
+java:S3008g"TRename this field "GROUP_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠˆˆÂ
+p
+java:S3008h"URename this field "TENANT_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª‚û³ÿÿÿÿÿ
+P
+java:S1118!":Add a private constructor to hide the implicit public one.(‘äÀŸ
+A
+java:S11687"+Return an empty collection instead of null.(¥¹ï

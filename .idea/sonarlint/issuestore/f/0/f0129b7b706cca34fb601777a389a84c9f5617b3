@@ -1,0 +1,20 @@
+
+o
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜Øßò
+o
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(É§Èê
+@
+java:S1181?"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+y
+java:S2142?"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‡˜ÚÚøÿÿÿÿ
+C	java:S108?")Either remove or fill this block of code.(‡˜ÚÚøÿÿÿÿ
+i
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÓÕ´â
+A
+java:S1181Í"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+<
+java:S3457Î"%String contains no format specifiers.(•ðÜã
+C
+java:S1874",Remove this use of "Date"; it is deprecated.(ò­³–
+<
+java:S3457"%String contains no format specifiers.(î²×“

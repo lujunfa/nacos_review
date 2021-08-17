@@ -1,0 +1,21 @@
+
+Y
+java:S1596b">Replace "Collections.EMPTY_LIST" by "Collections.emptyList()".(÷ƒ¨öúÿÿÿÿ
+P
+java:S1118 ":Add a private constructor to hide the implicit public one.(©üí
+`
+java:S1124'"EReorder the modifiers to comply with the Java Language Specification.(¹²ñòüÿÿÿÿ
+[
+java:S11240"EReorder the modifiers to comply with the Java Language Specification.(ŒÕ©½
+[
+java:S1124^"EReorder the modifiers to comply with the Java Language Specification.(½­óÅ
+T
+java:S5993j"9Change the visibility of this constructor to "protected".(¼ä¢„ıÿÿÿÿ
+[
+java:S1124i"EReorder the modifiers to comply with the Java Language Specification.(ÜÅü
+`
+java:S1124v"EReorder the modifiers to comply with the Java Language Specification.(™êŞ¼üÿÿÿÿ
+[
+java:S1124}"EReorder the modifiers to comply with the Java Language Specification.(Ñ­¬à
+[
+java:S1124ƒ"EReorder the modifiers to comply with the Java Language Specification.(şğ§

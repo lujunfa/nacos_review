@@ -1,0 +1,32 @@
+
+c
+java:S1192Ž"GDefine a constant instead of duplicating this literal "_nacos" 4 times.(õ˜ä‚ûÿÿÿÿ
+N
+java:S2629œ"7Use the built-in formatting to construct this argument.(ÞòêŽ
+E
+java:S5411;"*Use the primitive boolean expression here.(œÏ¥óøÿÿÿÿ
+@
+java:S5411P"*Use the primitive boolean expression here.(…öà
+E
+java:S5411c"*Use the primitive boolean expression here.(œÏ¥óøÿÿÿÿ
+@
+java:S5411w"*Use the primitive boolean expression here.(…öà
+P
+java:S1118%":Add a private constructor to hide the implicit public one.(Ô»æù
+`
+java:S1124)"EReorder the modifiers to comply with the Java Language Specification.(ÛÙ¾Êøÿÿÿÿ
+[
+java:S1124:"EReorder the modifiers to comply with the Java Language Specification.(éôä†
+[
+java:S1124K"EReorder the modifiers to comply with the Java Language Specification.(ÝÚœÐ
+>	java:S108\")Either remove or fill this block of code.(Æâ­ê
+`
+java:S1124b"EReorder the modifiers to comply with the Java Language Specification.(æ†üÛÿÿÿÿÿ
+a
+java:S1124†"EReorder the modifiers to comply with the Java Language Specification.(¹‘ù–ùÿÿÿÿ
+\
+java:S1124—"EReorder the modifiers to comply with the Java Language Specification.(þ¡÷›
+X
+java:S3457œ"AFormat specifiers should be used instead of string concatenation.(ÞòêŽ
+X
+java:S3457ž"AFormat specifiers should be used instead of string concatenation.(šÆßó

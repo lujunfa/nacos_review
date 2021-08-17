@@ -1,0 +1,17 @@
+
+˜
+java:S1186‘"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬Ó¿ÿ
+
+java:S1186€"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤–‘şÿÿÿÿ
+t
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦í‹€ùÿÿÿÿ
+`
+java:S4275"DRefactor this getter so that it actually refers to the field "name".(ú›Šøøÿÿÿÿ
+N
+java:S1172É"2Remove this unused method parameter "serviceName".(…ĞÎ’úÿÿÿÿ
+j
+java:S2975ç"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(×—
+>
+java:S1068"(Remove this unused "name" private field.(ù½‚™
+>
+java:S1068-")Remove this unused "token" private field.(‡ôğ)

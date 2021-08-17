@@ -1,0 +1,10 @@
+
+E
+java:S1066J"/Merge this if statement with the enclosing one.(ÎèŠº
+R	java:S107@"=Method has 10 parameters, which is greater than 7 authorized.(Ç÷ ­
+C
+java:S1172]"-Remove this unused method parameter "dataId".(¨¾¨
+E
+java:S1172…".Remove this unused method parameter "request".(ÉÄá€
+o
+java:S2139Ì"XEither log this exception and handle it, or rethrow it with some contextual information.(ëß‹™

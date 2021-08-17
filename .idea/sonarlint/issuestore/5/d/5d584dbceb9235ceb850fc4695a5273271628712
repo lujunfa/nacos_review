@@ -1,0 +1,40 @@
+
+D
+java:S37406"/Provide the parametrized type for this generic.(ğßàB
+b
+java:S1192Â"FDefine a constant instead of duplicating this literal "/api/" 3 times.(ÄÜ¼…úÿÿÿÿ
+g
+java:S1192v"RDefine a constant instead of duplicating this literal "gzip,deflate,sdch" 3 times.(ÆÔÀ2
+a
+java:S11921"KDefine a constant instead of duplicating this literal "Keep-Alive" 4 times.(„ì‘ø
+d
+java:S11923"IDefine a constant instead of duplicating this literal "http://" 14 times.(¯Œşÿÿÿÿ
+g
+java:S1192J"LDefine a constant instead of duplicating this literal "NamingProxy" 4 times.(‚ìˆÍşÿÿÿÿ
+a
+java:S11921"KDefine a constant instead of duplicating this literal "Connection" 4 times.(„ì‘ø
+a
+java:S11920"KDefine a constant instead of duplicating this literal "User-Agent" 4 times.(óÿ¾
+e
+java:S1192v"PDefine a constant instead of duplicating this literal "Accept-Encoding" 3 times.(ÆÔÀ2
+e
+java:S1192/"ODefine a constant instead of duplicating this literal "Client-Version" 4 times.(øÏ¥ƒ
+b
+java:S1192\"GDefine a constant instead of duplicating this literal " msg: " 5 times.(¬¿Ä¹üÿÿÿÿ
+g
+java:S1192x"QDefine a constant instead of duplicating this literal "Content-Encoding" 3 times.(äÄÖØ
+i
+java:S1192D"SDefine a constant instead of duplicating this literal "failed to req API:" 4 times.(ª‘ˆä
+_
+java:S1192‡"HDefine a constant instead of duplicating this literal ". code:" 3 times.(Ì›¨ğ
+[	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(¡¸§í
+[	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(çˆœ¦
+[	java:S112p"FDefine and throw a dedicated exception instead of using a generic one.(¢¢ñ”
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÕŠ‹§
+[	java:S112±"FDefine and throw a dedicated exception instead of using a generic one.(¾­Û8
+`
+java:S1128"ERemove this unused import 'com.alibaba.nacos.core.utils.SystemUtils'.(…¥”¼şÿÿÿÿ
+P
+java:S1118 ":Add a private constructor to hide the implicit public one.(†×úÒ
+K
+java:S2864é"4Iterate over the "entrySet" instead of the "keySet".(«ñá¬

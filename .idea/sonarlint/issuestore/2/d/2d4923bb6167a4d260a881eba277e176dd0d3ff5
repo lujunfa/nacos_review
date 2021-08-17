@@ -1,0 +1,44 @@
+
+V
+java:S2184­"@Cast one of the operands of this addition operation to a "long".(˜‘úh
+M
+java:S2629ë"7Use the built-in formatting to construct this argument.(ÇÃ]
+\	java:S112š"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+F
+java:S5411Ã"*Use the primitive boolean expression here.(œãøúıÿÿÿÿ
+F
+java:S5411Ğ"*Use the primitive boolean expression here.(ŞÎ±Áüÿÿÿÿ
+>
+java:S1604S"(Make this anonymous inner class a lambda( çÊÎ
+C
+java:S1604Z"(Make this anonymous inner class a lambda(¾öƒåüÿÿÿÿ
+C
+java:S1604a"(Make this anonymous inner class a lambda(øé·øÿÿÿÿ
+?
+java:S1604"(Make this anonymous inner class a lambda(äƒç
+D
+java:S1604Û"(Make this anonymous inner class a lambda(ÈºşŠıÿÿÿÿ
+h
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.( Üó
+@
+java:S1181t"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+S
+java:S3878m"8Remove this array creation and simply pass the elements.(§¶ÿÏøÿÿÿÿ
+F
+java:S2093Â"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+u
+java:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(Óîùöûÿÿÿÿ
+i
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(“–ış
+A
+java:S1181ï"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+p
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(È‘ß”
+W
+java:S3457ë"AFormat specifiers should be used instead of string concatenation.(ÇÃ]
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÓĞ‰½şÿÿÿÿ
+\
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(§î°ç
+\
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(§šÔ·
