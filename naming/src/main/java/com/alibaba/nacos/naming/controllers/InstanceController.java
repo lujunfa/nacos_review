@@ -91,6 +91,12 @@ public class InstanceController {
         }
     };
 
+    /**
+     * 服务注册入口
+     * @param request
+     * @return
+     * @throws Exception
+     */
     @CanDistro
     @RequestMapping(value = "", method = RequestMethod.POST)
     public String register(HttpServletRequest request) throws Exception {

@@ -35,6 +35,8 @@ import java.util.concurrent.TimeUnit;
  * @author nkorange
  * @since 1.0.0
  */
+
+//任务分发器
 @Component
 public class TaskDispatcher {
 
@@ -50,15 +52,21 @@ public class TaskDispatcher {
     public void init() {
         for (int i = 0; i < partitionConfig.getTaskDispatchThreadCount(); i++) {
             TaskScheduler taskScheduler = new TaskScheduler(i);
+
+            //任务调度执行器加入到链表
             taskSchedulerList.add(taskScheduler);
+
+            //每个任务调度器由一个对应的线程支持
             GlobalExecutor.submitTaskDispatch(taskScheduler);
         }
     }
 
     public void addTask(String key) {
+        //根据key计算
         taskSchedulerList.get(UtilsAndCommons.shakeUp(key, partitionConfig.getTaskDispatchThreadCount())).addTask(key);
     }
 
+    //任务调度器
     public class TaskScheduler implements Runnable {
 
         private int index;
@@ -126,6 +134,7 @@ public class TaskDispatcher {
                                 Loggers.EPHEMERAL.debug("add sync task: {}", JSON.toJSONString(syncTask));
                             }
 
+                            //向其他节点发起同步key数据，让其他节点也写入key数据
                             dataSyncer.submit(syncTask, 0);
                         }
                         lastDispatchTime = System.currentTimeMillis();

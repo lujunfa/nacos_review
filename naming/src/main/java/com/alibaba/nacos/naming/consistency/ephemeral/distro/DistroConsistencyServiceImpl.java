@@ -125,6 +125,8 @@ public class DistroConsistencyServiceImpl implements EphemeralConsistencyService
             initialized = true;
             return;
         }
+
+        //只有自己则需要休眠到有更多的服务器节点接入健康节点列表
         // size = 1 means only myself in the list, we need at least one another server alive:
         while (serverListManager.getHealthyServers().size() <= 1) {
             Thread.sleep(1000L);
@@ -138,6 +140,7 @@ public class DistroConsistencyServiceImpl implements EphemeralConsistencyService
             if (Loggers.EPHEMERAL.isDebugEnabled()) {
                 Loggers.EPHEMERAL.debug("sync from " + server);
             }
+            //同步其他节点的值，设置初始完毕标志
             // try sync data from remote server:
             if (syncAllDataFromRemote(server)) {
                 initialized = true;
@@ -164,6 +167,7 @@ public class DistroConsistencyServiceImpl implements EphemeralConsistencyService
 
     public void onPut(String key, Record value) {
 
+        //临时性的值则放在内存
         if (KeyBuilder.matchEphemeralInstanceListKey(key)) {
             Datum<Instances> datum = new Datum<>();
             datum.value = (Instances) value;
@@ -176,6 +180,7 @@ public class DistroConsistencyServiceImpl implements EphemeralConsistencyService
             return;
         }
 
+        //通知监听者有数据变更
         notifier.addTask(key, ApplyAction.CHANGE);
     }
 

@@ -240,7 +240,7 @@ public class RaftCore {
 
         OPERATE_LOCK.lock();
         try {
-
+            //删除也得需要leader节点发起
             if (!isLeader()) {
                 Map<String, String> params = new HashMap<>(1);
                 params.put("key", URLEncoder.encode(key, "UTF-8"));
@@ -257,6 +257,8 @@ public class RaftCore {
 
             onDelete(datum.key, peers.local());
 
+
+            //通知所有节点提交删除操作，
             for (final String server : peers.allServersWithoutMySelf()) {
                 String url = buildURL(server, API_ON_DEL);
                 HttpClient.asyncHttpDeleteLarge(url, null, JSON.toJSONString(json)
@@ -270,6 +272,7 @@ public class RaftCore {
 
                             RaftPeer local = peers.local();
 
+                            //随机重置选主衰减时间
                             local.resetLeaderDue();
 
                             return 0;
@@ -343,13 +346,14 @@ public class RaftCore {
     public void onDelete(String datumKey, RaftPeer source) throws Exception {
 
         RaftPeer local = peers.local();
-
+        //非leader节点发起的删除请求直接抛异常
         if (!peers.isLeader(source.ip)) {
             Loggers.RAFT.warn("peer {} tried to publish data but wasn't leader, leader: {}",
                 JSON.toJSONString(source), JSON.toJSONString(getLeader()));
             throw new IllegalStateException("peer(" + source.ip + ") tried to publish data but wasn't leader");
         }
 
+        //leader节点的term小于本机节点的term直接抛异常
         if (source.term.get() < local.term.get()) {
             Loggers.RAFT.warn("out of date publish, pub-term: {}, cur-term: {}",
                 JSON.toJSONString(source), JSON.toJSONString(local));
@@ -357,12 +361,17 @@ public class RaftCore {
                 + source.term + ", cur-term: " + local.term);
         }
 
+        //重置leader节点过期时间
         local.resetLeaderDue();
 
+
+        //本节点删除数据
         // do apply
         String key = datumKey;
         deleteDatum(key);
 
+
+        //设置本节点的term和更新本机保存的leadr的节点的term
         if (KeyBuilder.matchServiceMetaKey(key)) {
 
             if (local.term.get() + PUBLISH_TERM_INCREASE_COUNT > source.term.get()) {
@@ -387,6 +396,7 @@ public class RaftCore {
         public void run() {
             try {
 
+                //如果服务器还没就绪就不发起选主
                 if (!peers.isReady()) {
                     return;
                 }
